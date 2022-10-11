@@ -6,10 +6,9 @@
 body {
 
     font-family: 'Helvetica',sans-serif;
-    background-image: url(pictures/minion7.jpg);
     background-repeat: no-repeat;
     background-size: 240px 140px;
-    margin: 0% 5%;
+    margin: 0%;
     background-position-x: 100%;
     background-position-y: 200px;
 }
