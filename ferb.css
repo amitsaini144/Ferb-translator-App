@@ -52,14 +52,14 @@ h4 {
     font-size: 18px;
     margin-top: 20px;
     padding: 10px 20px;
-    background-color:#22f006;
+    background-color:var(--green-color);
     color:white;
-    border-radius: 15px 0px;
+    border-radius: 15px;
     border: 0px;
 }
 
 .translate-btn:hover {
-    background-color:var(--violet-color);
+    background-color:#22a510;
 }
 
 .outputText {
